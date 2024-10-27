@@ -1,0 +1,8 @@
+com\user\User_Details\service\UserServiceImpl.class
+com\user\User_Details\repository\UserRepository.class
+com\user\User_Details\UserDetailsApplication.class
+com\user\User_Details\entity\Customer.class
+com\user\User_Details\controller\UserController.class
+com\user\User_Details\entity\Car.class
+com\user\User_Details\feign\FeignService.class
+com\user\User_Details\service\UserService.class
